@@ -26,20 +26,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 10/19    | 9:00     | TP     |    Classwork                               |    60       |
+| 10/21    |  9:00    | TP     |    Classwork                               |    60       |
+| 10/26    |      9:00| TP     |    Classwork                               |    60       |
+| 11/02    |  9:30    | IP     |    Doing the project                       |             |
 
-_Note: Add more rows as needed._
 
 ## Sprint Totals
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |       0                  |
+|TP - Team Project              |        3:00              |
+|MTG - Class Meetings           |            0             |
+|**TOTAL**                      |             3:00         |
